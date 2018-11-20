@@ -1,8 +1,8 @@
 {
   "name": "feathers-connection-service",
-  "version": "0.0.4",
+  "version": "0.0.1-alpha",
   "description": "",
-  "main": "dist/src",
+  "main": "dist/",
   "engines": {
     "node": ">= 8.0.0"
   },
