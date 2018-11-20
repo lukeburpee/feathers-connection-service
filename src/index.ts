@@ -5,3 +5,5 @@ export default ConnectionService
 export { Service as ConnectionClass } from './connection-service'
 
 export { default as BaseService } from './base-service'
+
+export { default as Utils } from './utils'

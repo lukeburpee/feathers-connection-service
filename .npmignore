@@ -1,3 +1,6 @@
+tsconfig.json
+mocha.opts
+src
 .DS_Store
 data
 dist
