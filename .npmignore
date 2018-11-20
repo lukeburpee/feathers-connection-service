@@ -2,7 +2,7 @@
 data
 dist
 node_modules
-coverage
-test
+coverage/
+test/
 .nyc_output
 .travis.yml

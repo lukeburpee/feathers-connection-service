@@ -1,8 +1,8 @@
 {
   "name": "feathers-connection-service",
-  "version": "0.0.2-alpha",
+  "version": "0.0.3-alpha",
   "description": "",
-  "main": "dist/",
+  "main": "dist/src/index.js",
   "engines": {
     "node": ">= 8.0.0"
   },
@@ -24,6 +24,7 @@
     "release:minor": "npm version minor && npm publish",
     "release:major": "npm version major && npm publish",
     "mocha": "ts-mocha test/**/*.ts",
+    "prebuild": "rimraf dist",
     "build": "tsc",
     "clean": "rimraf node_modules",
     "pretest": "yarn build",
