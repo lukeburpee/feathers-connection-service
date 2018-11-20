@@ -1,0 +1,6 @@
+.DS_Store
+data
+dist
+node_modules
+coverage
+.nyc_output
