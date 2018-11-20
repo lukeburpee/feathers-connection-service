@@ -1,6 +1,6 @@
 {
   "name": "feathers-connection-service",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "dist/src",
   "engines": {
