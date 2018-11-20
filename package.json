@@ -1,11 +1,20 @@
 {
-  "name": "feathers-connections",
-  "version": "4.0.0",
+  "name": "feathers-connection-service",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/",
   "engines": {
-    "node": ">= 4.6.0"
+    "node": ">= 8.0.0"
   },
+  "author": {
+    "name": "Luke Burpee",
+    "email": "lukeburpee@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lukeburpee/feathers-connection-service"
+  },
+  "license": "MIT",
   "scripts": {
     "tslint": "tslint -p tsconfig.json -c tslint.json",
     "prepare": "yarn build",
@@ -39,10 +48,6 @@
     ],
     "all": true
   },
-  "author": {
-    "email": "lukeburpee@gmail.com"
-  },
-  "license": "ISC",
   "dependencies": {
     "@feathersjs/commons": "^3.0.1",
     "@feathersjs/errors": "^3.3.4",
