@@ -1,8 +1,9 @@
 {
   "name": "feathers-connection-service",
-  "version": "0.0.6-alpha",
+  "version": "0.0.7-alpha",
   "description": "",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "engines": {
     "node": ">= 8.0.0"
   },
