@@ -52,7 +52,7 @@
   "dependencies": {
     "@feathersjs/commons": "^3.0.1",
     "@feathersjs/errors": "^3.3.4",
-    "@feathersjs/feathers": "^3.2.3",
+    "@feathersjs/feathers": "^4.3.3",
     "debug": "^4.1.0",
     "sift": "^7.0.1",
     "uuid": "^3.3.2"
