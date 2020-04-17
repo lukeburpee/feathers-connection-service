@@ -50,7 +50,7 @@
     "all": true
   },
   "dependencies": {
-    "@feathersjs/commons": "^3.0.1",
+    "@feathersjs/commons": "^4.5.3",
     "@feathersjs/errors": "^3.3.4",
     "@feathersjs/feathers": "^3.2.3",
     "debug": "^4.1.0",
